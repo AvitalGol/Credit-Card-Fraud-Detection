@@ -1,0 +1,2 @@
+the data set is too big to be uploaded directly to the repository.
+link to the dataset: https://www.dropbox.com/scl/fi/n4r1d1ykniy5otgsmn2k4/creditcard.csv?rlkey=tvsgzcn58oi1e1b5cu2eh2n2r&dl=0
