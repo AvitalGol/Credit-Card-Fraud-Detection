@@ -13,3 +13,4 @@ import shap
 from sklearn.cluster import KMeans
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import StandardScaler
+from xgboost import XGBClassifier
