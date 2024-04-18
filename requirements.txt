@@ -1,3 +1,7 @@
+pip install shap
+pip install xgboost shap matplotlib
+pip install joblib
+
 import matplotlib.pyplot as plt
 import seaborn as sns
 import sklearn
